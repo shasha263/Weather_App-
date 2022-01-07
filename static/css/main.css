@@ -1,0 +1,43 @@
+.nav{
+   
+    background-color: rgb(199, 235, 250);
+    color: rgb(235, 199, 199); 
+
+}
+
+body{
+    background-color: rgb(169, 197, 197);
+    background-image:url("https://th.bing.com/th/id/R.6ab5744af0827f4880dceca1e5bcca19?rik=arbf4lni3oz4ug&riu=http%3a%2f%2fwww.freevector.com%2fuploads%2fvector%2fpreview%2f18226%2fFree-Sky-Vectors.jpg&ehk=JxIIWPR%2fEiFvCPTIL63tCJYqA5nfXcvvn78FvooGa54%3d&risl=&pid=ImgRaw&r=0");
+}
+
+#table_1{
+    background-color: rgba(236, 74, 74, 0.897);
+    color: rgb(0, 14, 13);
+    margin-top: 50px;
+    text-align: center;
+  }
+  #table_2{
+    background-color: rgba(167, 235, 91, 0.897);
+    color: rgb(0, 14, 13);
+    margin-top: 50px;
+    text-align: center;
+  }
+  #table_3{
+    background-color: rgb(202, 173, 6);
+    color: rgb(17, 0, 12);
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  #table_4{
+    background-color: teal;
+    color: rgb(0, 14, 13);
+    margin-top: 50px;
+    text-align: center;
+  }
+
+#form_{
+    color: rgb(1, 24, 22);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
