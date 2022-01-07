@@ -5,7 +5,7 @@ let statecode= document.querySelector("#statecode").value;
 let countrycode= document.querySelector("#countrycode").value;
 
    
-fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city},${statecode},${countrycode}&appid=96446c72c541fe88e26ceed775e43275`)
+fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city},${statecode},${countrycode}&appid=`)
 .then(response => response.json())
 .then(weatherdata => {
     console.log(weatherdata)
